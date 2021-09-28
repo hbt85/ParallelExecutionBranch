@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: Navigate to amazon.com
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 7.038 s <<< FAILURE! - in Navigate to amazon.com
+I want to Navigate to amazon.com(Navigate to amazon.com)  Time elapsed: 7.038 s  <<< ERROR!
+org.openqa.selenium.WebDriverException: 
+unknown error: cannot determine loading status
+from unknown error: cannot determine loading status
+from disconnected: Unable to receive message from renderer
+  (Session info: chrome=93.0.4577.63)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'himas-MBP', ip: 'fe80:0:0:0:1038:36fd:26c9:1738%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.7', java.version: '16.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 93.0.4577.63, chrome: {chromedriverVersion: 92.0.4515.107 (87a818b10553..., userDataDir: /var/folders/xr/prx040jj1t9...}, goog:chromeOptions: {debuggerAddress: localhost:60004}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: edc86c5a02d7c5d55da804345e75f195
+
